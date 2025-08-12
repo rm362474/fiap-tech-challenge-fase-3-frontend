@@ -40,3 +40,7 @@ O frontend foi construído como uma Single Page Application utilizando React, Re
 	npm run dev
 	```
 5. Acesse o frontend em: http://localhost:5173
+
+## Relato de Experiências e Desafios
+
+Foi interessante explorar ferramentas novas como o Zod para validação de schemas e o Tailwind CSS para estilização, que aceleraram as iterações e deram mais clareza ao frontend. O principal desafio apareceu na identificação de comportamentos inesperados — especialmente nas interações entre estados do React, validações e navegação — o que exigiu uma depuração sistemática: adicionar logs e mensagens de erro, isolar hipóteses e revisar fluxos de ponta a ponta para encontrar falhas e brechas.
